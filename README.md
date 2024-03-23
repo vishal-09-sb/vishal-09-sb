@@ -1,6 +1,6 @@
 **GitHub Introduction:**
 
-Welcome to my GitHub profile! 👋 I'm Vishal Bhandary, a passionate Full Stack Engineer with over 2 years of hands-on experience in developing scalable websites and applications. My expertise spans across a wide range of front-end and back-end technologies, including Angular, Java Spring Boot, HTML5, CSS3, and more.
+Welcome to my GitHub profile! 👋 I'm Vishal Bhandary, a passionate Full Stack Engineer with over 2.5 years of hands-on experience in developing scalable websites and applications. My expertise spans across a wide range of front-end and back-end technologies, including Angular, Java Spring Boot, HTML5, CSS3, and more.
 
 Within my repositories, you'll find a showcase of my projects where I've leveraged my skills to design and develop robust backend applications, create efficient APIs and services, and implement UI components using Angular Framework. Additionally, I'm proficient in version control tools like Git and GitHub, ensuring collaborative and high-quality code development.
 
